@@ -15,7 +15,7 @@ void loop() {
   delay(3000); // Wait for 3 seconds
   
   digitalWrite(10,HIGH); // // Turn on voltage at output 8 (YELLOW)
-  delayx(1000);
+  delay(1000);
 
   // Turn off 8 and 10 and Turn on 12 (GREEN)
   digitalWrite(8, LOW); 
