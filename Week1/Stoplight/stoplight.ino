@@ -2,7 +2,7 @@ void setup() {
   // put your setup code here, to run once:
 
   // These are the ports which the LEDs are conencted to as outputs
-  pinMode(8,OUTPUT);
+  pinMode(8, OUTPUT);
   pinMode(10, OUTPUT);
   pinMode(12,OUTPUT);
 }
